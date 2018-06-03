@@ -2,7 +2,7 @@
     <div class="indigo darken-4 white-text ">
         <div class="row center-align">
             <div class="col s12 m12 l12">
-                <h2>Tour Dance</h2>
+                <h2>Dance Tour</h2>
             </div>
         </div>
     </div>
